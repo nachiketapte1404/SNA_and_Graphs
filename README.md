@@ -7,7 +7,7 @@ The groups members contributing in this project are:<br>
 * Yashraj Kadam 22BDS066 <br>
 
 The project aims to run quantitative analysis on the undirected graph of US Road Networks <br>
-The dataset used in the project can be found here: 
+The dataset used in the project can be found in the road-usroads.mtx file in the roads-usroads folder or here: 
 https://networkrepository.com/road-usroads.php
 <br>
 We have decided to run the following metrics for the quantitative analysis: 
