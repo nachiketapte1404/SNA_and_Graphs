@@ -6,11 +6,11 @@ The groups members contributing in this project are:<br>
 * Parishri Rakesh Shah 22BDS043 <br>
 * Yashraj Kadam 22BDS066 <br>
 
-The project aims to run quantitative analysis on the undirected graph of US Road Networks
+The project aims to run quantitative analysis on the undirected graph of US Road Networks <br>
 The dataset used in the project can be found here: 
 https://networkrepository.com/road-usroads.php
-
-We have decided to run the following metrics for the quantitative analysis:
+<br>
+We have decided to run the following metrics for the quantitative analysis: 
 
 - average degree
 - count of triangles
