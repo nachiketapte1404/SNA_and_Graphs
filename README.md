@@ -1,10 +1,10 @@
 This is the project for the subject of Graph Theory and Social Network Analysis taught by Dr. Utkarsh Khaire
 
-The groups members contributing in this project are:
-Ayush Singh 22BDS012 <br>
-Nachiket Ganesh Apte 22BDS041 <br>
-Parishri Rakesh Shah 22BDS043 <br>
-Yashraj Kadam 22BDS066 <br>
+The groups members contributing in this project are:<br>
+* Ayush Singh 22BDS012 <br>
+* Nachiket Ganesh Apte 22BDS041 <br>
+* Parishri Rakesh Shah 22BDS043 <br>
+* Yashraj Kadam 22BDS066 <br>
 
 The project aims to run quantitative analysis on the undirected graph of US Road Networks
 The dataset used in the project can be found here: 
