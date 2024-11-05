@@ -20,9 +20,9 @@ We have decided to run the following metrics for the quantitative analysis:
 - betweenness centrality
 - diameter
 - average path length
-- shortest path (Princeton algos)
+- shortest path
 - closeness centrality
-
+- average clustering coefficient
 
 The ppt for the mid project report can be found here:
 https://docs.google.com/presentation/d/1MgkBy097WsvTn08I1J2AxU2KGuw6TFvBX9gYb6Hevmo/edit?usp=sharing
