@@ -24,5 +24,8 @@ We have decided to run the following metrics for the quantitative analysis:
 - closeness centrality
 - average clustering coefficient
 
-The ppt for the mid project report can be found here:
+The ppt for the final project report can be found here:
 https://docs.google.com/presentation/d/1MgkBy097WsvTn08I1J2AxU2KGuw6TFvBX9gYb6Hevmo/edit?usp=sharing
+
+The report link:
+https://docs.google.com/document/d/1Xn2NyIyc6eV8W9m0RwBFCVFWNW0dDdmyrPzbtTJvtk8/edit?tab=t.0#heading=h.muqtc2avnufw
